@@ -15,8 +15,10 @@ A machine learning–based web application that detects fraudulent and malicious
 - Joblib
 
 ## How to Run
+```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## Model File
 The trained Random Forest model file is not included in the repository due to GitHub file size limits.
